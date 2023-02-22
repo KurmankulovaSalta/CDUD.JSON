@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 240px !important;
+  text-align: center;
+  margin-left: 660px;
+}
+span {
+  text-align: center;
+  color: green;
+}
+h1 {
+  text-align: center;
+  color: black;
+}
